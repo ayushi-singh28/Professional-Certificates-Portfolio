@@ -7,10 +7,15 @@ Completed Python Training during Class 12 to build a strong foundation in progra
 🚀 Skills Learned
 
 ✔️ Python Fundamentals
+<br>
 ✔️ Variables and Data Types
+<br>
 ✔️ Loops and Conditional Statements
+<br>
 ✔️ Functions
+<br>
 ✔️ Problem Solving
+<br>
 ✔️ Basic Programming Concepts
 
 🎯 Learning Outcome

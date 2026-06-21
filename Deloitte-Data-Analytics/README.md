@@ -75,7 +75,7 @@ Analyze datasets and apply forensic technology concepts to identify trends, patt
 
 **Issued By:** Deloitte Australia (via Forage)  
 **Program:** Deloitte Data Analytics Job Simulation  
-**Completion Date:** June 2026  
+**Completion Date:** May 28th 2026  
 **Credential ID:** [YHi9LjFc2Xdv8mH5S]  
 **Credential URL:** [https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a179fd2848346fd463cec93_1779934427376_completion_certificate.pdf]
 

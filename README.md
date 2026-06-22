@@ -5,4 +5,4 @@ This repository showcases my learning journey, achievements, certifications, and
 
 ## 📬 Connect with Me
 
-🔗 LinkedIn:
+🔗 LinkedIn: https://www.linkedin.com/in/ayushi-kumari-a0680a2b2

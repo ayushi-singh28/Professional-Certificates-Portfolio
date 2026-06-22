@@ -317,7 +317,8 @@ Expected outcomes of the proposed system:
 Successfully completed:
 
 **GenAI Powered Data Analytics Job Simulation – Tata**
-
+<br>
+Certificate_Credential : https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a179fd2848346fd463cec93_1781922723895_completion_certificate.pdf
 ---
 
 # 👩‍💻 Credentials

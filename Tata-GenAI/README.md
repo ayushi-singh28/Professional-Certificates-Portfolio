@@ -1,6 +1,5 @@
 # 🚀 GenAI Powered Data Analytics Job Simulation – Tata
 
-![Certificate]([Add-Certificate-Image-Link](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a179fd2848346fd463cec93_1781922723895_completion_certificate.pdf))
 
 ## 👩‍💻 About the Project
 
@@ -327,6 +326,6 @@ Successfully completed:
 
 📧 Email: your-email@example.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/ayushi-kumari-a0680a2b2
 
 🌟 Thank you for visiting this project repository!

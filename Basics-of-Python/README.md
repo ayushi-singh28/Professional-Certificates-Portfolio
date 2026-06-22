@@ -71,5 +71,5 @@ Successfully completed the *Basics of Python* certification program offered by I
 
 **Certification:** Basics of Python  
 **Organization:** Infosys Springboard    
-**Completion Date:** []  
+**Completion Date:** [May 29,2026]  
 
